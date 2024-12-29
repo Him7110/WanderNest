@@ -2,10 +2,6 @@
 
 WanderNest is an amazing tour booking platform built with NodeJS. It offers users an easy and seamless experience for booking tours, managing bookings, and interacting with others through reviews, favorites, and more.
 
-## Demo 🎬
-You can view a live demo of the site at [demo link here].  
-*Make sure to replace this placeholder with the actual demo URL once it's live.*
-
 ## Key Features 📝
 
 ### Authentication and Authorization
